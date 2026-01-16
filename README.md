@@ -16,6 +16,6 @@ core histone and CENH3 proteins from proteome or transcriptome-derived protein s
 
 ## Usage
 ```bash
-bash histone_scan.sh Test_prot.fasta
+./histone_scan.sh Test_prot.fasta
 
 # Histone_scan
